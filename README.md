@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hello everyone, my name is Vadym.
+I'm a Fullstack developer.
 
 <!--
 **Vadym-Pravda/Vadym-Pravda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
